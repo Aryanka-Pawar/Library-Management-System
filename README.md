@@ -17,7 +17,6 @@ Student can view, take and return the book as shown in screenshots.
   <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/2.jpeg" width="100"/>
   <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/3.jpeg" width="100"/>
   <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/4.jpeg" width="100"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/5.jpeg" width="100"/>
   <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/6.jpeg" width="100"/>
   <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/7.jpeg" width="100"/>
   <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/8.jpeg" width="100"/>
