@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>BookStore</title>
+<link rel="stylesheet" href="login.css">
+<script src="login.js"></script>
+</head>
+<body>
+	<div class="form-container log-in-container">
+		<form action="loginDB.jsp" method="post" onsubmit="return validate();">
+			<h1>Login</h1>
+			<input type="email" placeholder="Email" name="userEmail" id="userEmail"/>
+			<input type="password" placeholder="Password" name="userPassword" id="userPassword"/>
+			<div>
+				<input type="checkbox" id="isStudent" name="isStudent" value="1">
+				<input type="hidden" id="isStudent" name="isStudent" value="0">
+				<label for="isStudent">Are You Student?</label><br>
+			</div>
+			<a href="register.html">New User?</a>
+			<input class="login" type="submit" value="Log In">
+			
+			<!--<button onclick="location.href='index.html'" type="button">Log In</button>-->
+		</form>
+	</div>
+	
+	
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-panel overlay-right">
+				<h1>Welcome To BookStore</h1>
+				<p>Please fill all the details to login.</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

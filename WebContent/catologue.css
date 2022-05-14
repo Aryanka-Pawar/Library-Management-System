@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: white;
+  padding: 10px;
+} 
+
+.grid-item {
+  background-color: white;
+  border: 1px solid white;
+  padding: 20px;
+  font-size: 13px;
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 12px 18px 0 rgba(0, 0, 0, 0.2);
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  border-radius:7px;
+}
+
+img{
+	width:120px;
+	height:120px;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  border-radius: 7px;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color:#FF4B2B;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}

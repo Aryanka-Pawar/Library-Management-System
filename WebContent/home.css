@@ -1,0 +1,128 @@
+@charset "ISO-8859-1";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+html {
+    height: 100%;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    color: #FF4B2B;
+    margin: 0;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  transition: all 0.6s;
+  background-color: white;
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0.5rem 1.5rem;
+}
+
+h1{
+	font-weight: bold;
+	font-family: "Montserrat", sans-serif;
+	margin-right: auto;
+}
+
+a, button {
+  color: white;
+}
+
+.nav-links {
+  list-style: none;
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 0 1.25rem;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  transition: all 0.5s ease 0s;
+}
+
+.nav-links li a:hover {
+  color: #FF4B2B;
+}
+
+button {
+  background: #FF7F50;
+  cursor: pointer;
+  padding: 9px 20px;
+  border: none;
+  border-radius: 7px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  transition: all 0.5s ease 0s;
+  margin-left: 20px;
+}
+
+button:hover {
+  background: #FF4B2B;
+}
+
+.about-section{
+  padding:100px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100%;
+  width:100%;
+}
+
+#main{
+    display: table;
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+}
+
+.fof button {
+	border-radius: 7px;
+	border: 1px solid #FF4B2B;
+	background-color: #FF4B2B;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+	display: inline-block;
+	width: 20%;
+	margin-left: 20%;
+}
+
+
+.fof{
+	  display: table-cell;
+	  vertical-align: middle;
+}
+
+.fof h1{
+	  font-size: 50px;
+	  display: inline-block;
+	  padding-right: 12px;
+	  animation: type .5s alternate infinite;
+}
+
+@keyframes type{
+	  from{box-shadow: inset -3px 0px 0px #FF4B2B;}
+	  to{box-shadow: inset -3px 0px 0px transparent;}
+}
