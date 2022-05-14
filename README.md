@@ -1,5 +1,5 @@
 # Library-Management-System
-It is a library management system to issue books for students. I have used, Java JSP, Oracle SQL Database to store the data. 
+It is a library management system to issue books for students. I have used, HTML, CSS, Javascript, Java JSP, Oracle SQL Database to store the data. 
 
 ## Admin
 Admin can add and remove the librarian as shown in screenshots.
