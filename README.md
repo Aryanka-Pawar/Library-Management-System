@@ -15,15 +15,15 @@ Student can view, take and return the book as shown in screenshots.
 <p float="left">
   <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/1.jpeg" width="300"/>
   <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/2.jpeg" width="300"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/3.jpeg" width="500"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/4.jpeg" width="500"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/6.jpeg" width="500"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/7.jpeg" width="500"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/8.jpeg" width="500"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/9.jpeg" width="500"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/10.jpeg" width="500"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/11.jpeg" width="500"/>
-  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/12.jpeg" width="500"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/3.jpeg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/4.jpeg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/6.jpeg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/7.jpeg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/8.jpeg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/9.jpeg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/10.jpeg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/11.jpeg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Library-Management-System/master/screenshots/12.jpeg" width="300"/>
 </p>
 
 ## Ways to run the project 
