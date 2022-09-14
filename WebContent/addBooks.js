@@ -10,6 +10,7 @@ function validate(){
         valid = false;
     }
     
-    return valid;
+    return valid; 
+    
 };
  
